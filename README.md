@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/tartejbrothers/chamberly-comments.git
+git clone https://github.com/TartejBrothers/Chamberly-Comments.git
 ```
 
 2. Open the project in Xcode.
