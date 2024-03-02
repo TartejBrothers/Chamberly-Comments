@@ -31,10 +31,6 @@ This project, developed in Swift, introduces a feature set for commenting and re
 ## Technologies Used
 
 - Language: Swift
-- Frameworks: UIKit, SwiftUI (optional)
-- Backend: (Optional, specify if applicable)
-- Authentication: (Optional, specify if applicable)
-- Real-time Communication: (Optional, specify if applicable)
 
 ## Getting Started
 
