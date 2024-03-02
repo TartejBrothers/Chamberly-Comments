@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/srivatsadavuluriiii/Chamberly-iOS-feature.git
+git clone https://github.com/tartejbrothers/chamberly-comments.git
 ```
 
 2. Open the project in Xcode.
@@ -52,8 +52,8 @@ git clone https://github.com/srivatsadavuluriiii/Chamberly-iOS-feature.git
 
 4. Build and run the project on a simulator or a physical device.
 
-
 ## Contributing
+
 Contributions are welcome! If you'd like to contribute to the project, please follow these guidelines:
 
 1. Fork the repository.
